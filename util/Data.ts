@@ -6,33 +6,13 @@ interface Image {
 
 export const ENTRIES: Image[] = [
   {
-    date: "2024-march-01",
+    date: "2024-march-02",
     image: "/practices/01.webp",
     description: "trying body anatomy and later some anime.",
   },
   {
-    date: "2024-march-01",
-    image: "/practices/01.webp",
-    description: "trying body anatomy and later some anime.",
-  },
-  {
-    date: "2024-march-01",
-    image: "/practices/01.webp",
-    description: "trying body anatomy and later some anime.",
-  },
-  {
-    date: "2024-march-01",
-    image: "/practices/01.webp",
-    description: "trying body anatomy and later some anime.",
-  },
-  {
-    date: "2024-march-01",
-    image: "/practices/01.webp",
-    description: "trying body anatomy and later some anime.",
-  },
-  {
-    date: "2024-march-01",
-    image: "/practices/01.webp",
-    description: "trying body anatomy and later some anime.",
-  },
+    date: "2024-march-03",
+    image: "/practices/02.webp",
+    description: "Back anatomy and structure tests.",
+  }
 ];
