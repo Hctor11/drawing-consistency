@@ -1,13 +1,12 @@
 import { ENTRIES } from "@/util/Data";
 import Image from "next/image";
-import { useState } from "react";
 import './Dropdown.css'
 
 const Gallery = () => {
   return (
     <div>       
-      <div className="columns-1 gap-2 sm:columns-2 sm:gap-3 md:columns-3 lg:columns-4 [&>img:not(:first-child)]:mt-8">
-        <div className="">
+      <div className="">
+        <div className="grid grid-cols-3 gap-3">
           {ENTRIES.map((item) => (
             <>
               <div className="group relative mb-2">
