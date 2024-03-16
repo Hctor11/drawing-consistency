@@ -34,5 +34,10 @@ export const ENTRIES: Image[] = [
     date: "2024-march-11",
     image: "/practices/06.webp",
     description: "Nice day, trying arm anatomy",
+  },
+  {
+    date: "2024-march-15",
+    image: "/practices/07.webp",
+    description: "4 DAYS DAMNNN sorry about that Ive been so busy.",
   }
 ];
