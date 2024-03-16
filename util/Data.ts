@@ -32,7 +32,7 @@ export const ENTRIES: Image[] = [
   },
   {
     date: "2024-march-11",
-    image: "/practices/06.webp",
+    image: "/practices/06.jpeg",
     description: "Nice day, trying arm anatomy",
   },
   {
