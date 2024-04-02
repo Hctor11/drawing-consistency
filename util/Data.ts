@@ -88,8 +88,16 @@ export const ENTRIES: Image[] = [
     image: "/practices/19.webp",
     description: "Final legs and starting F E E T.",
   },{
-    date: "2024-march-20",
+    date: "2024-march-30",
     image: "/practices/20.webp",
     description: "Still on feet.",
+  },{
+    date: "2024-march-31",
+    image: "/practices/21.webp",
+    description: "Sorry I messed up these days.",
+  },{
+    date: "2024-april-01",
+    image: "/practices/22.webp",
+    description: "AHH APRIL FOOLS WHAAA, I went to my university and ti was closed man so fool.",
   }
 ];
