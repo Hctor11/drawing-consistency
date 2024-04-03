@@ -99,5 +99,9 @@ export const ENTRIES: Image[] = [
     date: "2024-april-01",
     image: "/practices/22.webp",
     description: "AHH APRIL FOOLS WHAAA, I went to my university and ti was closed man so fool.",
+  },{
+    date: "2024-april-02",
+    image: "/practices/23.webp",
+    description: "The thing that I like of discipline is that it shows how much mistakes we take as normal.",
   }
 ];
