@@ -155,5 +155,9 @@ export const ENTRIES: Image[] = [
     date: "2024-april-27",
     image: "/practices/35.webp",
     description: "Hi, my phone is gone so I dont have any camera to take my progression, honestly these days I been feeling kinda bad and demotivated so I will take a time for thinking stuff.",
+  },{
+    date: "2024-may-4",
+    image: "/practices/36.jpeg",
+    description: "BACK TO THE GAME AAAAAA.",
   }
 ];
