@@ -159,5 +159,9 @@ export const ENTRIES: Image[] = [
     date: "2024-may-4",
     image: "/practices/36.jpeg",
     description: "BACK TO THE GAME AAAAAA.",
+  },{
+    date: "2024-may-27",
+    image: "/practices/37.jpeg",
+    description: "I got in love for some girl.",
   }
 ];
